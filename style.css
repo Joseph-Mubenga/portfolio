@@ -6,7 +6,7 @@
 
 /* Body */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     line-height: 1.6;
     color: #333;
 }
@@ -83,7 +83,7 @@ section {
 
 section h2 {
     margin-bottom: 15px;
-    color: black;
+    color: green;
 }
 
 ul {

@@ -8,5 +8,5 @@ et administration de bases de données.
 - HTML
 - CSS
 - PHP
-- MySQL
+- SQL
 - Git & GitHub
